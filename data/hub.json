@@ -1,4 +1,61 @@
 {
+    "HUB16-2": [
+        {"neighbor": "HUB16-1B", "distance": 353},
+        {"neighbor": "HUB16-1CD", "distance": 60},
+        {"neighbor": "HUB16-3F4", "distance": 356},
+        {"neighbor": "HUB16-14C", "distance": 357},
+        {"neighbor": "HUB16-1D0", "distance": 310}
+    ],
+    "HUB16-6": [
+        {"neighbor": "HUB16-1B", "distance": 319},
+        {"neighbor": "HUB16-1CD", "distance": 183},
+        {"neighbor": "HUB16-3F4", "distance": 265},
+        {"neighbor": "HUB16-14C", "distance": 300},
+        {"neighbor": "HUB16-1D0", "distance": 302}
+        {"neighbor": "HUB16-77", "distance": 24}
+    ],
+    "HUB16-9": [
+        {"neighbor": "HUB16-1B", "distance": 127},
+        {"neighbor": "HUB16-14C", "distance": 403},
+        {"neighbor": "HUB16-1CD", "distance": 383},
+        {"neighbor": "HUB16-3F4", "distance": 169},
+        {"neighbor": "HUB16-1D0", "distance": 449}
+    ],
+    "HUB16-A": [
+        {"neighbor": "HUB16-1B", "distance": 159},
+        {"neighbor": "HUB16-1CD", "distance": 369},
+        {"neighbor": "HUB16-3F4", "distance": 131},
+        {"neighbor": "HUB16-14C", "distance": 381},
+        {"neighbor": "HUB16-1D0", "distance": 433}
+    ],
+    "HUB16-B": [
+        {"neighbor": "HUB16-1B", "distance": 168},
+        {"neighbor": "HUB16-1CD", "distance": 351},
+        {"neighbor": "HUB16-3F4", "distance": 126},
+        {"neighbor": "HUB16-14C", "distance": 364},
+        {"neighbor": "HUB16-1D0", "distance": 416},
+        {"neighbor": "HUB16-29", "distance": 63},
+        {"neighbor": "HUB16-6D", "distance": 75}
+    ],
+    "HUB16-14": [
+        {"neighbor": "HUB16-1B", "distance": 114},
+        {"neighbor": "HUB16-18", "distance": 38},
+        {"neighbor": "HUB16-171", "distance": 50},
+        {"neighbor": "HUB16-1D", "distance": 169}
+    ],
+    "HUB16-17": [
+        {"neighbor": "HUB16-1B", "distance": 120},
+        {"neighbor": "HUB16-14C", "distance": 416},
+        {"neighbor": "HUB16-1CD", "distance": 395},
+        {"neighbor": "HUB16-3F4", "distance": 186},
+        {"neighbor": "HUB16-1D0", "distance": 461}
+    ],
+    "HUB16-18": [
+        {"neighbor": "HUB16-406", "distance": 91},
+        {"neighbor": "HUB16-1B", "distance": 83},
+        {"neighbor": "HUB16-78", "distance": 145},
+        {"neighbor": "HUB16-19", "distance": 30},
+    ],
     "HUB16-19": [
         {"neighbor": "HUB16-1FB", "distance": 42},
         {"neighbor": "HUB16-20F", "distance": 77},
@@ -6,6 +63,12 @@
         {"neighbor": "HUB16-4F", "distance": 10},
         {"neighbor": "HUB16-171", "distance": 88},
         {"neighbor": "HUB16-1AE", "distance": 54}
+    ],
+    "HUB16-1A": [
+        {"neighbor": "HUB16-171", "distance": 104},
+        {"neighbor": "HUB16-71", "distance": 40},
+        {"neighbor": "HUB16-1C", "distance": 50},
+        {"neighbor": "HUB16-78", "distance": 83}
     ],
     "HUB16-1B": [
     ],
@@ -16,6 +79,9 @@
         {"neighbor": "HUB16-33", "distance": 40},
         {"neighbor": "HUB16-34", "distance": 23},
         {"neighbor": "HUB16-66", "distance": 55}
+    ],
+    "HUB16-30": [
+        {"neighbor": "HUB16-48", "distance": 9},
     ],
     "HUB16-31": [
         {"neighbor": "HUB16-32", "distance": 34},
@@ -30,37 +96,379 @@
     "HUB16-3F": [
         {"neighbor": "HUB16-78", "distance": 29}
     ],
+    "HUB16-45": [
+        {"neighbor": "HUB16-1B", "distance": 241},
+        {"neighbor": "HUB16-1CD", "distance": 234},
+        {"neighbor": "HUB16-3F4", "distance": 225},
+        {"neighbor": "HUB16-14C", "distance": 265},
+        {"neighbor": "HUB16-1D0", "distance": 290}
+    ],
+    "HUB16-48": [
+        {"neighbor": "HUB16-1B", "distance": 93},
+        {"neighbor": "HUB16-1CD", "distance": 357},
+        {"neighbor": "HUB16-3F4", "distance": 231},
+        {"neighbor": "HUB16-14C", "distance": 414},
+        {"neighbor": "HUB16-1D0", "distance": 440}
+    ],
+    "HUB16-49": [
+        {"neighbor": "HUB16-1B", "distance": 116},
+        {"neighbor": "HUB16-14C", "distance": 402},
+        {"neighbor": "HUB16-1CD", "distance": 378},
+        {"neighbor": "HUB16-3F4", "distance": 181},
+        {"neighbor": "HUB16-1D0", "distance": 445}
+    ],
+    "HUB16-4A": [
+        {"neighbor": "HUB16-48", "distance": 35}
+    ],
+    "HUB16-4B": [
+        {"neighbor": "HUB16-48", "distance": 26}
+    ],
+    "HUB16-4C": [
+        {"neighbor": "HUB16-1B", "distance": 279},
+        {"neighbor": "HUB16-1CD", "distance": 246},
+        {"neighbor": "HUB16-3F4", "distance": 218},
+        {"neighbor": "HUB16-14C", "distance": 273},
+        {"neighbor": "HUB16-1D0", "distance": 305}
+    ],
+    "HUB16-4D": [
+        {"neighbor": "HUB16-1B", "distance": 156},
+        {"neighbor": "HUB16-1CD", "distance": 356},
+        {"neighbor": "HUB16-3F4", "distance": 135},
+        {"neighbor": "HUB16-14C", "distance": 386},
+        {"neighbor": "HUB16-1D0", "distance": 433}
+    ],
     "HUB16-4F": [
         {"neighbor": "HUB16-6E", "distance": 57},
         {"neighbor": "HUB16-1E7", "distance": 68},
         {"neighbor": "HUB16-1FB", "distance": 37}
     ],
+    "HUB16-54": [
+        {"neighbor": "HUB16-1B", "distance": 352},
+        {"neighbor": "HUB16-1CD", "distance": 67},
+        {"neighbor": "HUB16-3F4", "distance": 352},
+        {"neighbor": "HUB16-14C", "distance": 352},
+        {"neighbor": "HUB16-1D0", "distance": 307},
+        {"neighbor": "HUB16-175", "distance": 75}
+    ],
+    "HUB16-62": [
+        {"neighbor": "HUB16-1B", "distance": 100},
+        {"neighbor": "HUB16-1CD", "distance": 379},
+        {"neighbor": "HUB16-3F4", "distance": 216},
+        {"neighbor": "HUB16-14C", "distance": 420},
+        {"neighbor": "HUB16-1D0", "distance": 454}
+    ],
     "HUB16-71": [
         {"neighbor": "HUB16-16D", "distance": 74}
     ],
+    "HUB16-72": [
+        {"neighbor": "HUB16-1B", "distance": 136},
+        {"neighbor": "HUB16-1AE", "distance": 160},
+        {"neighbor": "HUB16-1F6", "distance": 146},
+        {"neighbor": "HUB16-182", "distance": 108}
+    ],
+    "HUB16-73": [
+        {"neighbor": "HUB16-48", "distance": 16}
+    ],
     "HUB16-78": [
-        {"neighbor": "HUB16-1F6", "distance": 27}
+        {"neighbor": "HUB16-1F6", "distance": 27},
+        {"neighbor": "HUB16-1DD", "distance": 20}
+    ],
+    "HUB16-8C": [
+        {"neighbor": "HUB16-1B", "distance": 379},
+        {"neighbor": "HUB16-1CD", "distance": 181},
+        {"neighbor": "HUB16-3F4", "distance": 297},
+        {"neighbor": "HUB16-14C", "distance": 337},
+        {"neighbor": "HUB16-1D0", "distance": 331}
+        {"neighbor": "HUB16-100", "distance": 59}
+    ],
+    "HUB16-AF": [
+        {"neighbor": "HUB16-1B", "distance": 416},
+        {"neighbor": "HUB16-1CD", "distance": 193},
+        {"neighbor": "HUB16-3F4", "distance": 327},
+        {"neighbor": "HUB16-14C", "distance": 349},
+        {"neighbor": "HUB16-1D0", "distance": 338}
+    ],
+    "HUB16-B1": [
+        {"neighbor": "HUB16-1B", "distance": 430},
+        {"neighbor": "HUB16-1CD", "distance": 189},
+        {"neighbor": "HUB16-3F4", "distance": 328},
+        {"neighbor": "HUB16-14C", "distance": 383},
+        {"neighbor": "HUB16-1D0", "distance": 370}
+    ],
+    "HUB16-B2": [
+        {"neighbor": "HUB16-1B", "distance": 347},
+        {"neighbor": "HUB16-1CD", "distance": 191},
+        {"neighbor": "HUB16-3F4", "distance": 274},
+        {"neighbor": "HUB16-14C", "distance": 311},
+        {"neighbor": "HUB16-1D0", "distance": 313}
+    ],
+    "HUB16-C1": [
+        {"neighbor": "HUB16-1B", "distance": 414},
+        {"neighbor": "HUB16-1CD", "distance": 181},
+        {"neighbor": "HUB16-3F4", "distance": 332},
+        {"neighbor": "HUB16-14C", "distance": 348},
+        {"neighbor": "HUB16-1D0", "distance": 333}
+    ],
+    "HUB16-C5": [
+        {"neighbor": "HUB16-1B", "distance": 374},
+        {"neighbor": "HUB16-1CD", "distance": 216},
+        {"neighbor": "HUB16-3F4", "distance": 256},
+        {"neighbor": "HUB16-14C", "distance": 355},
+        {"neighbor": "HUB16-1D0", "distance": 363}
+    ],
+    "HUB16-DB": [
+        {"neighbor": "HUB16-1B", "distance": 293},
+        {"neighbor": "HUB16-1CD", "distance": 347},
+        {"neighbor": "HUB16-3F4", "distance": 74},
+        {"neighbor": "HUB16-14C", "distance": 395},
+        {"neighbor": "HUB16-1D0", "distance": 448}
+    ],
+    "HUB16-D9": [
+        {"neighbor": "HUB16-1B", "distance": 357},
+        {"neighbor": "HUB16-1CD", "distance": 177},
+        {"neighbor": "HUB16-3F4", "distance": 265},
+        {"neighbor": "HUB16-14C", "distance": 359},
+        {"neighbor": "HUB16-1D0", "distance": 355}
+    ],
+    "HUB16-EA": [
+        {"neighbor": "HUB16-1B", "distance": 333},
+        {"neighbor": "HUB16-1CD", "distance": 187},
+        {"neighbor": "HUB16-3F4", "distance": 257},
+        {"neighbor": "HUB16-14C", "distance": 323},
+        {"neighbor": "HUB16-1D0", "distance": 326}
+    ],
+    "HUB16-109": [
+        {"neighbor": "HUB16-1B", "distance": 411},
+        {"neighbor": "HUB16-1CD", "distance": 155},
+        {"neighbor": "HUB16-3F4", "distance": 333},
+        {"neighbor": "HUB16-14C", "distance": 373},
+        {"neighbor": "HUB16-1D0", "distance": 351}
+    ],
+    "HUB16-10B": [
+        {"neighbor": "HUB16-1B", "distance": 257},
+        {"neighbor": "HUB16-1CD", "distance": 267},
+        {"neighbor": "HUB16-3F4", "distance": 139},
+        {"neighbor": "HUB16-14C", "distance": 364},
+        {"neighbor": "HUB16-1D0", "distance": 395}
+    ],
+    "HUB16-10D": [
+        {"neighbor": "HUB16-A", "distance": 10}
+    ],
+    "HUB16-124": [
+        {"neighbor": "HUB16-1B", "distance": 276},
+        {"neighbor": "HUB16-1CD", "distance": 210},
+        {"neighbor": "HUB16-3F4", "distance": 195},
+        {"neighbor": "HUB16-14C", "distance": 357},
+        {"neighbor": "HUB16-1D0", "distance": 369}
+    ],
+    "HUB16-130": [
+        {"neighbor": "HUB16-1B", "distance": 274},
+        {"neighbor": "HUB16-1CD", "distance": 196},
+        {"neighbor": "HUB16-3F4", "distance": 268},
+        {"neighbor": "HUB16-14C", "distance": 258},
+        {"neighbor": "HUB16-1D0", "distance": 263}
+    ],
+    "HUB16-139": [
+        {"neighbor": "HUB16-1B", "distance": 235},
+        {"neighbor": "HUB16-1CD", "distance": 232},
+        {"neighbor": "HUB16-3F4", "distance": 180},
+        {"neighbor": "HUB16-14C", "distance": 338},
+        {"neighbor": "HUB16-1D0", "distance": 358}
+    ],
+    "HUB16-13A": [
+        {"neighbor": "HUB16-1B", "distance": 181},
+        {"neighbor": "HUB16-1CD", "distance": 308},
+        {"neighbor": "HUB16-3F4", "distance": 136},
+        {"neighbor": "HUB16-14C", "distance": 355},
+        {"neighbor": "HUB16-1D0", "distance": 395},
+        {"neighbor": "HUB16-76", "distance": 48}
+    ],
+    "HUB16-149": [
+        {"neighbor": "HUB16-1B", "distance": 171},
+        {"neighbor": "HUB16-14", "distance": 79},
+        {"neighbor": "HUB16-3F", "distance": 167},
+        {"neighbor": "HUB16-198", "distance": 152}
     ],
     "HUB16-16D": [
         {"neighbor": "HUB16-171", "distance": 62},
         {"neighbor": "HUB16-17F", "distance": 20},
         {"neighbor": "HUB16-1AA", "distance": 44}
     ],
+    "HUB16-16F71": [
+        {"neighbor": "HUB16-1B", "distance": 203},
+        {"neighbor": "HUB16-1CD", "distance": 234},
+        {"neighbor": "HUB16-3F4", "distance": 241},
+        {"neighbor": "HUB16-14C", "distance": 260},
+        {"neighbor": "HUB16-1D0", "distance": 279}
+    ],
     "HUB16-171": [
         {"neighbor": "HUB16-198", "distance": 89},
         {"neighbor": "HUB16-1AE", "distance": 107}
+    ],
+    "HUB16-175": [
     ],
     "HUB16-17F": [
         {"neighbor": "HUB16-1AA", "distance": 43},
         {"neighbor": "HUB16-1E3", "distance": 61}
     ],
+    "HUB16-180": [
+        {"neighbor": "HUB16-1B", "distance": 185},
+        {"neighbor": "HUB16-1CD", "distance": 239},
+        {"neighbor": "HUB16-3F4", "distance": 245},
+        {"neighbor": "HUB16-14C", "distance": 265},
+        {"neighbor": "HUB16-1D0", "distance": 282}
+    ],
+    "HUB16-182": [
+        {"neighbor": "HUB16-1B", "distance": 222},
+        {"neighbor": "HUB16-1F6", "distance": 192},
+        {"neighbor": "HUB16-14", "distance": 216},
+        {"neighbor": "HUB16-198", "distance": 227}
+
+    ],
+    "HUB16-188": [
+        {"neighbor": "HUB16-1B", "distance": 116},
+        {"neighbor": "HUB16-14C", "distance": 412},
+        {"neighbor": "HUB16-1CD", "distance": 370},
+        {"neighbor": "HUB16-3F4", "distance": 189},
+        {"neighbor": "HUB16-1D0", "distance": 450}
+    ],
+    "HUB16-197": [
+        {"neighbor": "HUB16-1B", "distance": 358},
+        {"neighbor": "HUB16-1CD", "distance": 66},
+        {"neighbor": "HUB16-3F4", "distance": 384},
+        {"neighbor": "HUB16-14C", "distance": 335},
+        {"neighbor": "HUB16-1D0", "distance": 277}
+    ],
     "HUB16-198": [
         {"neighbor": "HUB16-1DF", "distance": 66}
+    ],
+    "HUB16-19E": [
+        {"neighbor": "HUB16-1B", "distance": 356},
+        {"neighbor": "HUB16-14C", "distance": 59},
+        {"neighbor": "HUB16-1CD", "distance": 366},
+        {"neighbor": "HUB16-3F4", "distance": 464},
+        {"neighbor": "HUB16-1D0", "distance": 78}
     ],
     "HUB16-1AA": [
         {"neighbor": "HUB16-1E3", "distance": 28}
     ],
+    "HUB16-1AD": [
+        {"neighbor": "HUB16-1B", "distance": 313},
+        {"neighbor": "HUB16-1CD", "distance": 84},
+        {"neighbor": "HUB16-3F4", "distance": 331},
+        {"neighbor": "HUB16-14C", "distance": 341},
+        {"neighbor": "HUB16-1D0", "distance": 302}
+    ],
+    "HUB16-1B2": [
+        {"neighbor": "HUB16-48", "distance": 18},
+    ],
+    "HUB16-1B3": [
+        {"neighbor": "HUB16-19", "distance": 16},
+        {"neighbor": "HUB16-17F", "distance": 54},
+        {"neighbor": "HUB16-1B", "distance": 78},
+        {"neighbor": "HUB16-32", "distance": 82}
+    ],
+    "HUB16-1B5": [
+        {"neighbor": "HUB16-1B", "distance": 386},
+        {"neighbor": "HUB16-14C", "distance": 81},
+        {"neighbor": "HUB16-1CD", "distance": 356},
+        {"neighbor": "HUB16-3F4", "distance": 478}
+        {"neighbor": "HUB16-1D0", "distance": 58}
+    ],
+    "HUB16-1C1": [
+        {"neighbor": "HUB16-1B", "distance": 356},
+        {"neighbor": "HUB16-1CD", "distance": 85},
+        {"neighbor": "HUB16-3F4", "distance": 372},
+        {"neighbor": "HUB16-14C", "distance": 320},
+        {"neighbor": "HUB16-1D0", "distance": 268}
+    ],
+    "HUB16-1C4": [
+        {"neighbor": "HUB16-1B", "distance": 85},
+        {"neighbor": "HUB16-14C", "distance": 227},
+        {"neighbor": "HUB16-1CD", "distance": 363},
+        {"neighbor": "HUB16-3F4", "distance": 295},
+        {"neighbor": "HUB16-1D0", "distance": 318}
+    ],
     "HUB16-1C6": [
         {"neighbor": "HUB16-1DF", "distance": 32}
-    ]
+    ],
+    "HUB16-1CD": [
+        {"neighbor": "HUB16-1B", "distance": 383},
+        {"neighbor": "HUB16-14C", "distance": 400}
+        {"neighbor": "HUB16-3F4", "distance": 403},
+    ],
+    "HUB16-1CF": [
+        {"neighbor": "HUB16-1B", "distance": 311},
+        {"neighbor": "HUB16-1CD", "distance": 81},
+        {"neighbor": "HUB16-3F4", "distance": 330},
+        {"neighbor": "HUB16-14C", "distance": 350},
+        {"neighbor": "HUB16-1D0", "distance": 311}
+    ],
+    "HUB16-1D0": [
+        {"neighbor": "HUB16-1B", "distance": 393},
+        {"neighbor": "HUB16-14C", "distance": 133},
+        {"neighbor": "HUB16-1CD", "distance": 337},
+        {"neighbor": "HUB16-3F4", "distance": 506}
+    ],
+    "HUB16-1D6": [
+        {"neighbor": "HUB16-1B", "distance": 150},
+        {"neighbor": "HUB16-14C", "distance": 227},
+        {"neighbor": "HUB16-1CD", "distance": 395},
+        {"neighbor": "HUB16-3F4", "distance": 352},
+        {"neighbor": "HUB16-1D0", "distance": 278}
+    ],
+    "HUB16-1DE": [
+        {"neighbor": "HUB16-1B", "distance": 391},
+        {"neighbor": "HUB16-1CD", "distance": 57},
+        {"neighbor": "HUB16-3F4", "distance": 422},
+        {"neighbor": "HUB16-14C", "distance": 359},
+        {"neighbor": "HUB16-1D0", "distance": 288}
+    ],
+    "HUB16-1F5": [
+        {"neighbor": "HUB16-1B", "distance": 377},
+        {"neighbor": "HUB16-1CD", "distance": 54},
+        {"neighbor": "HUB16-3F4", "distance": 422},
+        {"neighbor": "HUB16-14C", "distance": 361},
+        {"neighbor": "HUB16-1D0", "distance": 288}
+    ],
+    "HUB16-1F8": [
+    ],
+    "HUB16-201": [
+        {"neighbor": "HUB16-1B", "distance": 334},
+        {"neighbor": "HUB16-14C", "distance": 68},
+        {"neighbor": "HUB16-1CD", "distance": 351},
+        {"neighbor": "HUB16-3F4", "distance": 446},
+        {"neighbor": "HUB16-1D0", "distance": 84}
+    ],
+    "HUB16-20E": [
+        {"neighbor": "HUB16-48", "distance": 78}
+    ],
+    "HUB16-20F": [
+        {"neighbor": "HUB16-48", "distance": 60}
+    ],
+    "HUB16-3F4": [
+        {"neighbor": "HUB16-1B", "distance": 390},
+        {"neighbor": "HUB16-14C", "distance": 398},
+    ],
+    "HUB16-40B": [
+        {"neighbor": "HUB16-1B", "distance": 431},
+        {"neighbor": "HUB16-1CD", "distance": 287},
+        {"neighbor": "HUB16-3F4", "distance": 249},
+        {"neighbor": "HUB16-14C", "distance": 423},
+        {"neighbor": "HUB16-1D0", "distance": 444}
+    ],
+    "HUB16-415": [
+        {"neighbor": "HUB16-1B", "distance": 173},
+        {"neighbor": "HUB16-1CD", "distance": 326},
+        {"neighbor": "HUB16-3F4", "distance": 143},
+        {"neighbor": "HUB16-14C", "distance": 410},
+        {"neighbor": "HUB16-1D0", "distance": 443}
+    ],
+    "HUB16-41D": [
+        {"neighbor": "HUB16-1B", "distance": 349},
+        {"neighbor": "HUB16-1CD", "distance": 309},
+        {"neighbor": "HUB16-3F4", "distance": 148},
+        {"neighbor": "HUB16-14C", "distance": 398},
+        {"neighbor": "HUB16-1D0", "distance": 437}
+    ],
 }
