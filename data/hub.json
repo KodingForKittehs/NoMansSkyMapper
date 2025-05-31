@@ -1,5 +1,66 @@
 {
     "HUB16-19": [
-        ""
+        {"neighbor": "HUB16-1FB", "distance": 42},
+        {"neighbor": "HUB16-20F", "distance": 77},
+        {"neighbor": "HUB16-31", "distance": 38},
+        {"neighbor": "HUB16-4F", "distance": 10},
+        {"neighbor": "HUB16-171", "distance": 88},
+        {"neighbor": "HUB16-1AE", "distance": 54}
+    ],
+    "HUB16-1B": [
+    ],
+    "HUB16-1C": [
+        {"neighbor": "HUB16-1DF", "distance": 36}
+    ],
+    "HUB16-1D": [
+        {"neighbor": "HUB16-33", "distance": 40},
+        {"neighbor": "HUB16-34", "distance": 23},
+        {"neighbor": "HUB16-66", "distance": 55}
+    ],
+    "HUB16-31": [
+        {"neighbor": "HUB16-32", "distance": 34},
+        {"neighbor": "HUB16-4F", "distance": 31},
+        {"neighbor": "HUB16-71", "distance": 27},
+        {"neighbor": "HUB16-1AE", "distance": 77},
+        {"neighbor": "HUB16-1FB", "distance": 16}
+    ],
+    "HUB16-3E": [
+        {"neighbor": "HUB16-1DF", "distance": 65}
+    ],
+    "HUB16-3F": [
+        {"neighbor": "HUB16-78", "distance": 29}
+    ],
+    "HUB16-4F": [
+        {"neighbor": "HUB16-6E", "distance": 57},
+        {"neighbor": "HUB16-1E7", "distance": 68},
+        {"neighbor": "HUB16-1FB", "distance": 37}
+    ],
+    "HUB16-71": [
+        {"neighbor": "HUB16-16D", "distance": 74}
+    ],
+    "HUB16-78": [
+        {"neighbor": "HUB16-1F6", "distance": 27}
+    ],
+    "HUB16-16D": [
+        {"neighbor": "HUB16-171", "distance": 62},
+        {"neighbor": "HUB16-17F", "distance": 20},
+        {"neighbor": "HUB16-1AA", "distance": 44}
+    ],
+    "HUB16-171": [
+        {"neighbor": "HUB16-198", "distance": 89},
+        {"neighbor": "HUB16-1AE", "distance": 107}
+    ],
+    "HUB16-17F": [
+        {"neighbor": "HUB16-1AA", "distance": 43},
+        {"neighbor": "HUB16-1E3", "distance": 61}
+    ],
+    "HUB16-198": [
+        {"neighbor": "HUB16-1DF", "distance": 66}
+    ],
+    "HUB16-1AA": [
+        {"neighbor": "HUB16-1E3", "distance": 28}
+    ],
+    "HUB16-1C6": [
+        {"neighbor": "HUB16-1DF", "distance": 32}
     ]
 }
