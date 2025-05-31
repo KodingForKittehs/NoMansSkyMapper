@@ -1,0 +1,1 @@
+pip install scikit-learn numpy panda open3d

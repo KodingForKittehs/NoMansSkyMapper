@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#info {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    pointer-events: none;
+    z-index: 100;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+    padding: 10px;
+}
+
+p {
+    margin: 0;
+    font-size: 16px;
+    padding: 5px;
+} 
