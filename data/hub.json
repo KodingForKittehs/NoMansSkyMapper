@@ -470,5 +470,5 @@
         {"neighbor": "HUB16-3F4", "distance": 148},
         {"neighbor": "HUB16-14C", "distance": 398},
         {"neighbor": "HUB16-1D0", "distance": 437}
-    ],
+    ]
 }
