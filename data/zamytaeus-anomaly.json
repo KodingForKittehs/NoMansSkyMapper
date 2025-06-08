@@ -1,0 +1,53 @@
+{
+    "Ateadl-Jub": {},
+    "Atsand": {},
+    "Enfielly": {},
+    "Eionehe": {
+        "distances": {
+            "Icrosias": 357,
+            "Owneyria": 397,
+            "Porioni-Glena": 538,
+        },
+        "notes": "Control point lower right front"}
+    },
+    "Icrosias": {
+        "distances": {
+            "Eionehe": 357,
+            "Owneyria": 445,
+            "Porioni-Glena": 502,
+        },
+        "notes": "Control point lower left back"}
+    },
+    "Ieusissi": {},
+    "Joannac": {},
+    "Lotton": {},
+    "Mandrac-Kun": {},
+    "Niushe": {
+        "discovered_by": "hedowling6196",
+        "renamed": "Nook"
+    },
+    "Owneyria": {
+        "distances": {
+            "Eionehe": 397,
+            "Icrosias": 445,
+            "Porioni-Glena": 448,
+        },
+        "notes": "Control point upper left front"
+    },
+    "Porioni-Glena": {
+        "distances": {
+            "Eionehe": 538,
+            "Icrosias": 502,
+            "Owneyria": 448,
+        },
+        "notes": "Control point upper right back"
+    },
+    "Rasisso-Erdo": {},
+    "Ridget": {},
+    "Risamale": {},
+    "Rucestrt": {},
+    "Tarolyt": {},
+    "Udburnh": {},
+    "Xicopium": {},
+    "Yevonnea": {},
+}
