@@ -24,7 +24,7 @@ scene.add(directionalLight);
 
 // Load and parse CSV data
 async function loadPlanetData() {
-    const response = await fetch('hub_mds_coords.csv');
+    const response = await fetch('zamytaeus_anomaly.csv');
     const text = await response.text();
     const lines = text.split('\n').slice(1); // Skip header
     
