@@ -74,7 +74,7 @@ function createSystems(points, names) {
         const labelMaterial = new THREE.SpriteMaterial({ map: texture });
         const label = new THREE.Sprite(labelMaterial);
         label.position.copy(point);
-        label.position.y += 10;
+        label.position.y += 2; // Raise label above sphere
         label.scale.set(20, 5, 1);
         scene.add(label);
     });
