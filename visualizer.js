@@ -50,7 +50,7 @@ async function loadSystemData() {
 function createSystems(points, names) {
     const geometry = new THREE.SphereGeometry(1, 16, 16);
     const material = new THREE.MeshPhongMaterial({
-        color: 0x00ff00,
+        color: 0xffff00,
         emissive: 0x002200,
         shininess: 100
     });
