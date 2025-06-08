@@ -23,7 +23,7 @@ directionalLight.position.set(1, 1, 1);
 scene.add(directionalLight);
 
 // Load and parse CSV data
-async function loadPlanetData() {
+async function loadSystemData() {
     const response = await fetch('zamytaeus_anomaly.csv');
     const text = await response.text();
     const lines = text.split('\n').slice(1); // Skip header
@@ -46,8 +46,8 @@ async function loadPlanetData() {
     return { points, names };
 }
 
-// Create planet spheres
-function createPlanets(points, names) {
+// Create system spheres
+function createSystems(points, names) {
     const geometry = new THREE.SphereGeometry(5, 16, 16);
     const material = new THREE.MeshPhongMaterial({
         color: 0x00ff00,
@@ -96,7 +96,7 @@ function animate() {
 
 // Initialize
 async function init() {
-    const { points, names } = await loadPlanetData();
+    const { points, names } = await loadSystemData();
     
     // Center camera on data
     const center = new THREE.Vector3();
@@ -114,7 +114,7 @@ async function init() {
     camera.position.z += maxDistance * 2;
     camera.lookAt(center);
     
-    createPlanets(points, names);
+    createSystems(points, names);
     animate();
 }
 
