@@ -1,10 +1,18 @@
 {
     "Ateadl-Jub": {},
+    "Alnwic-Riwate": {
+        "distances": {
+            "Eionehe": 412,
+            "Icrosias": 263,
+            "Owneyria": 322,
+            "Porioni-Glena": 368
+        }
+    },
     "Atsand": {},
     "Awlisa-Epu": {
         "distances": {
-            "Eionehe": 414,
-            "Icrosias": 260,
+            "Eionehe": 410,
+            "Icrosias": 194,
             "Owneyria": 245,
             "Porioni-Glena": 369
         }
@@ -28,6 +36,30 @@
         "control_point": 0,
         "notes": "Control point lower right front"
     },
+    "Ercedosi": {
+        "distances": {
+            "Eionehe": 415,
+            "Icrosias": 207,
+            "Owneyria": 317,
+            "Porioni-Glena": 356
+        }
+    },
+    "Halostow": {
+        "distances": {
+            "Eionehe": 422,
+            "Icrosias": 229,
+            "Owneyria": 284,
+            "Porioni-Glena": 388
+        }
+    },
+    "Hypets": {
+        "distances": {
+            "Eionehe": 399,
+            "Icrosias": 199,
+            "Owneyria": 315,
+            "Porioni-Glena": 351
+        }
+    },
     "Icrosias": {
         "distances": {
             "Eionehe": 357,
@@ -48,6 +80,30 @@
         "notes": "Capital"
     },
     "Joannac": {},
+    "Kelahaka": {
+        "distances": {
+            "Eionehe": 403,
+            "Icrosias": 247,
+            "Owneyria": 241,
+            "Porioni-Glena": 402
+        }
+    },
+    "Lidrewkesiw": {
+        "distances": {
+            "Eionehe": 409,
+            "Icrosias": 254,
+            "Owneyria": 241,
+            "Porioni-Glena": 391
+        }
+    },
+    "Lompto": {
+        "distances": {
+            "Eionehe": 395,
+            "Icrosias": 209,
+            "Owneyria": 302,
+            "Porioni-Glena": 345
+        }
+    },
     "Lotton": {},
     "Mandrac-Kun": {},
     "Niushe": {
