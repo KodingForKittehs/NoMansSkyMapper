@@ -1,7 +1,7 @@
+# pylint: disable=missing-module-docstring,missing-function-docstring,invalid-name, C0115
 import http.server
 import socketserver
 import webbrowser
-import os
 
 PORT = 8000
 
@@ -24,4 +24,4 @@ def run_server():
             httpd.server_close()
 
 if __name__ == "__main__":
-    run_server() 
+    run_server()
