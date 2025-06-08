@@ -3,13 +3,6 @@ import json
 import numpy as np
 from scipy.optimize import minimize
 
-distances_between_control_points = [
-    [0, 357, 397, 538],
-    [357, 0, 445, 502],
-    [397, 445, 0, 448],
-    [538, 502, 448, 0]
-]
-
 def map_distances_to_3d(distances):
 
     def objective_function(coords):
@@ -56,9 +49,20 @@ for system in data.keys():
     if "control_point" in system_data:
         control_point_names[system_data["control_point"]] = system
 
-print(control_point_names)
+# Get distances between control points
+distances_between_control_points = []
+for cp in control_point_names.items():
+    cp_name = cp[1]
+    if "distances" in data[cp_name]:
+        distances = [
+            data[cp_name]["distances"].get(other_cp, 0)
+            for other_cp in control_point_names.values()
+        ]
+        distances_between_control_points.append(distances)
+
 control_points = map_distances_to_3d(distances_between_control_points)
 
+print("node, x, y, z")
 for system in data.keys():
     system_data = data[system]
     if "distances" in system_data:
