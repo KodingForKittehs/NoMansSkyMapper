@@ -1,24 +1,52 @@
 {
     "Ateadl-Jub": {},
     "Atsand": {},
+    "Awlisa-Epu": {
+        "distances": {
+            "Eionehe": 414,
+            "Icrosias": 260,
+            "Owneyria": 245,
+            "Porioni-Glena": 369
+        }
+    },
     "Enfielly": {},
+    "Eamienk": {
+        "distances": {
+            "Eionehe": 397,
+            "Icrosias": 224,
+            "Owneyria": 286,
+            "Porioni-Glena": 341
+        },
+        "notes": "black hole"
+    },
     "Eionehe": {
         "distances": {
             "Icrosias": 357,
             "Owneyria": 397,
-            "Porioni-Glena": 538,
+            "Porioni-Glena": 538
         },
-        "notes": "Control point lower right front"}
+        "control_point": 0,
+        "notes": "Control point lower right front"
     },
     "Icrosias": {
         "distances": {
             "Eionehe": 357,
             "Owneyria": 445,
-            "Porioni-Glena": 502,
+            "Porioni-Glena": 502
         },
-        "notes": "Control point lower left back"}
+        "control_point": 1,
+        "notes": "Control point lower left back"
     },
     "Ieusissi": {},
+    "Istonbe-Bor": {
+        "distances": {
+            "Eionehe": 410,
+            "Icrosias": 251,
+            "Owneyria": 249,
+            "Porioni-Glena": 376
+        },
+        "notes": "Capital"
+    },
     "Joannac": {},
     "Lotton": {},
     "Mandrac-Kun": {},
@@ -30,24 +58,34 @@
         "distances": {
             "Eionehe": 397,
             "Icrosias": 445,
-            "Porioni-Glena": 448,
+            "Porioni-Glena": 448
         },
+        "control_point": 2,
         "notes": "Control point upper left front"
     },
     "Porioni-Glena": {
         "distances": {
             "Eionehe": 538,
             "Icrosias": 502,
-            "Owneyria": 448,
+            "Owneyria": 448
         },
+        "control_point": 3,
         "notes": "Control point upper right back"
     },
     "Rasisso-Erdo": {},
     "Ridget": {},
+    "Rigiazus": {
+        "distances": {
+            "Eionehe": 417,
+            "Icrosias": 258,
+            "Owneyria": 253,
+            "Porioni-Glena": 361
+        }
+    },
     "Risamale": {},
     "Rucestrt": {},
     "Tarolyt": {},
     "Udburnh": {},
     "Xicopium": {},
-    "Yevonnea": {},
+    "Yevonnea": {}
 }
