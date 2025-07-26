@@ -1,5 +1,5 @@
 {
-    "Ateadl-Jub": {},
+    "Ahomerihe": {},
     "Alnwic-Riwate": {
         "distances": {
             "Eionehe": 412,
@@ -8,6 +8,8 @@
             "Porioni-Glena": 368
         }
     },
+    "Amdust": {},
+    "Ateadl-Jub": {},
     "Atsand": {},
     "Awlisa-Epu": {
         "distances": {
@@ -17,7 +19,11 @@
             "Porioni-Glena": 369
         }
     },
-    "Enfielly": {},
+    "Bedfornj": {},
+    "Coweybri": {},
+    "Dagenusc": {},
+    "Dolansh": {},
+    "Eachariga": {},
     "Eamienk": {
         "distances": {
             "Eionehe": 397,
@@ -36,6 +42,9 @@
         "control_point": 0,
         "notes": "Control point lower right front"
     },
+    "Enfielly": {},
+    "Enkrissi": {},
+    "Eporth": {},
     "Ercedosi": {
         "distances": {
             "Eionehe": 415,
@@ -44,6 +53,9 @@
             "Porioni-Glena": 356
         }
     },
+    "Esnomer": {},
+    "Gilber-Sheli": {},
+    "Gulusiss": {},
     "Halostow": {
         "distances": {
             "Eionehe": 422,
@@ -79,7 +91,9 @@
         },
         "notes": "Capital"
     },
+    "Ivybarid": {},
     "Joannac": {},
+    "Justoc": {},
     "Kelahaka": {
         "distances": {
             "Eionehe": 403,
@@ -88,6 +102,11 @@
             "Porioni-Glena": 402
         }
     },
+    "Kronatall": {
+        "discovered_by": "bonecraft7",
+        "notes": "Discovered 4 years ago, only Paalima discovered by player, no base"
+    },
+    "Liburbatl": {},
     "Lidrewkesiw": {
         "distances": {
             "Eionehe": 409,
@@ -105,7 +124,12 @@
         }
     },
     "Lotton": {},
+    "Lusteadl": {},
     "Mandrac-Kun": {},
+    "Mycerta": {},
+    "Navertf": {},
+    "Neapol": {},
+    "Nicelsin": {},
     "Niushe": {
         "discovered_by": "hedowling6196",
         "renamed": "Nook"
@@ -118,6 +142,8 @@
             "Porioni-Glena": 340
         }
     },
+    "Nurtonh-Zawa": {},
+    "Osiusa-Pien": {},
     "Owneyria": {
         "distances": {
             "Eionehe": 397,
@@ -148,8 +174,17 @@
     },
     "Risamale": {},
     "Rucestrt": {},
+    "Saffort": {},
+    "Serusa": {},
     "Tarolyt": {},
+    "Tifordo-Soza": {},
+    "Timhebe-Guchi": {
+        "discovered_by": "bonecraft7",
+        "notes": "Discovered 4 years ago, only Riming X planet discovered by player, they have a base there, large Indium suppy over 20k, left a comm ball ENE from their base",
+    },
     "Udburnh": {},
+    "Uneapo-Uodi": {},
+    "Uverli-Ebny": {},
     "Xicopium": {},
     "Yevonnea": {}
 }
