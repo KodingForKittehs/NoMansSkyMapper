@@ -1,5 +1,11 @@
 {
+    "Aacrose": {},
+    "Abujasta": {},
     "Ahomerihe": {},
+    "Aioneh": {},
+    "Aizinit": {
+        "notes": "Earhlike planet, no base"
+    },
     "Alnwic-Riwate": {
         "distances": {
             "Eionehe": 412,
@@ -9,6 +15,7 @@
         }
     },
     "Amdust": {},
+    "Anymed": {},
     "Ateadl-Jub": {},
     "Atsand": {},
     "Awlisa-Epu": {
@@ -19,7 +26,11 @@
             "Porioni-Glena": 369
         }
     },
+    "Balbea-Eni": {},
     "Bedfornj": {},
+    "Bielde-Adko": {},
+    "Bobbiel-Wujia": {},
+    "Citicaye": {},
     "Coweybri": {},
     "Dagenusc": {},
     "Dolansh": {},
@@ -42,9 +53,11 @@
         "control_point": 0,
         "notes": "Control point lower right front"
     },
+    "Elkgurove": {},
     "Enfielly": {},
     "Enkrissi": {},
     "Eporth": {},
+    "Epworkin": {},
     "Ercedosi": {
         "distances": {
             "Eionehe": 415,
@@ -91,6 +104,7 @@
         },
         "notes": "Capital"
     },
+    "Itfalo": {},
     "Ivybarid": {},
     "Joannac": {},
     "Justoc": {},
@@ -125,10 +139,15 @@
     },
     "Lotton": {},
     "Lusteadl": {},
+    "Mahael-Mutas": {},
     "Mandrac-Kun": {},
+    "Masboythr": {},
     "Mycerta": {},
+    "Naeanov-Unwic": {},
     "Navertf": {},
     "Neapol": {},
+    "Nebret-Nika": {},
+    "Neiadoug": {},
     "Nicelsin": {},
     "Niushe": {
         "discovered_by": "hedowling6196",
@@ -143,7 +162,10 @@
         }
     },
     "Nurtonh-Zawa": {},
+    "Ogiumfo-Erg": {},
     "Olybari": {},
+    "Orneusi-Uomu": {},
+    "Osalli-Rokho": {},
     "Osiusa-Pien": {},
     "Owneyria": {
         "distances": {
@@ -154,6 +176,7 @@
         "control_point": 2,
         "notes": "Control point upper left front"
     },
+    "Piosconch": {},
     "Porioni-Glena": {
         "distances": {
             "Eionehe": 538,
@@ -163,6 +186,7 @@
         "control_point": 3,
         "notes": "Control point upper right back"
     },
+    "Pupisci-Clunk": {},
     "Rasisso-Erdo": {},
     "Ridget": {},
     "Rigiazus": {
@@ -174,9 +198,11 @@
         }
     },
     "Risamale": {},
+    "Roystehom": {},
     "Rucestrt": {},
     "Saffort": {},
     "Serusa": {},
+    "Sohtrath": {},
     "Tarolyt": {},
     "Tifordo-Soza": {},
     "Timhebe-Guchi": {
@@ -185,7 +211,13 @@
     },
     "Udburnh": {},
     "Uneapo-Uodi": {},
+    "Urydon-Toyrn": {
+        "notes": "Pirates"
+    },
     "Uverli-Ebny": {},
+    "Verale": {},
+    "Waukeerla": {},
     "Xicopium": {},
-    "Yevonnea": {}
+    "Yevonnea": {},
+    "Zethiyreum": {}
 }
