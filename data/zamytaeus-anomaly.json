@@ -15,6 +15,7 @@
         }
     },
     "Amdust": {},
+    "Anrove": {},
     "Anymed": {},
     "Ateadl-Jub": {},
     "Atsand": {},
@@ -27,6 +28,7 @@
         }
     },
     "Balbea-Eni": {},
+    "Balhar": {},
     "Bedfornj": {},
     "Bielde-Adko": {},
     "Bobbiel-Wujia": {},
@@ -44,6 +46,9 @@
         },
         "notes": "black hole"
     },
+    "Ebhione": {},
+    "Edomis-Leynd": {},
+    "Egoriala": {},
     "Eionehe": {
         "distances": {
             "Icrosias": 357,
@@ -66,8 +71,12 @@
             "Porioni-Glena": 356
         }
     },
+    "Eroniq": {},
     "Esnomer": {},
+    "Ewcaste-Haa": {},
+    "Fetonorms": {},
     "Gilber-Sheli": {},
+    "Gittie": {},
     "Gulusiss": {},
     "Halostow": {
         "distances": {
@@ -77,6 +86,7 @@
             "Porioni-Glena": 388
         }
     },
+    "Hudlow": {},
     "Hypets": {
         "distances": {
             "Eionehe": 399,
@@ -94,6 +104,7 @@
         "control_point": 1,
         "notes": "Control point lower left back"
     },
+    "Idikey": {},
     "Ieusissi": {},
     "Istonbe-Bor": {
         "distances": {
@@ -106,6 +117,8 @@
     },
     "Itfalo": {},
     "Ivybarid": {},
+    "Jerranisb": {},
+    "Jikingt-Gaur": {},
     "Joannac": {},
     "Justoc": {},
     "Kelahaka": {
@@ -116,10 +129,15 @@
             "Porioni-Glena": 402
         }
     },
+    "Kiswork-Ese": {},
+    "Koylerto": {},
     "Kronatall": {
         "discovered_by": "bonecraft7",
         "notes": "Discovered 4 years ago, only Paalima discovered by player, no base"
     },
+    "Ladush": {},
+    "Lelsbyt": {},
+    "Lemeronzo": {},
     "Liburbatl": {},
     "Lidrewkesiw": {
         "distances": {
@@ -129,6 +147,8 @@
             "Porioni-Glena": 391
         }
     },
+    "Literheg": {},
+    "Loemfor": {},
     "Lompto": {
         "distances": {
             "Eionehe": 395,
@@ -139,16 +159,22 @@
     },
     "Lotton": {},
     "Lusteadl": {},
+    "Luwauke-Maslow": {},
     "Mahael-Mutas": {},
     "Mandrac-Kun": {},
     "Masboythr": {},
+    "Mossos-Maga": {},
+    "Mumazus-Ner": {},
     "Mycerta": {},
     "Naeanov-Unwic": {},
+    "Nagboro": {},
     "Navertf": {},
     "Neapol": {},
     "Nebret-Nika": {},
     "Neiadoug": {},
+    "Neroyalac": {},
     "Nicelsin": {},
+    "Nimouth": {},
     "Niushe": {
         "discovered_by": "hedowling6196",
         "renamed": "Nook"
@@ -167,6 +193,7 @@
     "Orneusi-Uomu": {},
     "Osalli-Rokho": {},
     "Osiusa-Pien": {},
+    "Owcest-Rax": {},
     "Owneyria": {
         "distances": {
             "Eionehe": 397,
@@ -176,6 +203,7 @@
         "control_point": 2,
         "notes": "Control point upper left front"
     },
+    "Persfie": {},
     "Piosconch": {},
     "Porioni-Glena": {
         "distances": {
@@ -188,6 +216,7 @@
     },
     "Pupisci-Clunk": {},
     "Rasisso-Erdo": {},
+    "Reumayeka": {},
     "Ridget": {},
     "Rigiazus": {
         "distances": {
@@ -201,6 +230,8 @@
     "Roystehom": {},
     "Rucestrt": {},
     "Saffort": {},
+    "Safielley": {},
+    "Sembro-Uvert": {},
     "Serusa": {},
     "Sohtrath": {},
     "Tarolyt": {},
@@ -209,15 +240,26 @@
         "discovered_by": "bonecraft7",
         "notes": "Discovered 4 years ago, only Riming X planet discovered by player, they have a base there, large Indium suppy over 20k, left a comm ball ENE from their base",
     },
+    "Topetri": {
+        "notes": "Gas giant, crystal helium"
+    },
+    "Tosofal-Utsf": {
+        "notes": "Water planet, no base"
+    },
+    "Toyolan-Yure": {},
     "Udburnh": {},
     "Uneapo-Uodi": {},
     "Urydon-Toyrn": {
         "notes": "Pirates"
     },
+    "Utherhen": {},
     "Uverli-Ebny": {},
     "Verale": {},
     "Waukeerla": {},
     "Xicopium": {},
+    "Yadnaean": {},
+    "Yavaciolc": {},
+    "Yeoviat-Rupp": {},
     "Yevonnea": {},
     "Zethiyreum": {}
 }
