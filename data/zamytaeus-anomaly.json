@@ -1,6 +1,7 @@
 {
     "Aacrose": {},
     "Abujasta": {},
+    "Aeonoss-Neri": {},
     "Ahomerihe": {},
     "Aioneh": {},
     "Aizinit": {
@@ -17,6 +18,9 @@
     "Amdust": {},
     "Anrove": {},
     "Anymed": {},
+    "Arkesvi-Gat": {
+        "notes": "Deepest and coldest water world"
+    },
     "Ateadl-Jub": {},
     "Atsand": {},
     "Awlisa-Epu": {
@@ -33,7 +37,9 @@
     "Bielde-Adko": {},
     "Bobbiel-Wujia": {},
     "Citicaye": {},
+    "Citiunto": {},
     "Coweybri": {},
+    "Cutumu": {},
     "Dagenusc": {},
     "Dolansh": {},
     "Eachariga": {},
@@ -61,6 +67,7 @@
     "Elkgurove": {},
     "Enfielly": {},
     "Enkrissi": {},
+    "Eovide": {},
     "Eporth": {},
     "Epworkin": {},
     "Ercedosi": {
@@ -75,6 +82,7 @@
     "Esnomer": {},
     "Ewcaste-Haa": {},
     "Fetonorms": {},
+    "Getonro": {},
     "Gilber-Sheli": {},
     "Gittie": {},
     "Gulusiss": {},
@@ -86,6 +94,7 @@
             "Porioni-Glena": 388
         }
     },
+    "Hioscul-Akk": {},
     "Hudlow": {},
     "Hypets": {
         "distances": {
@@ -105,7 +114,11 @@
         "notes": "Control point lower left back"
     },
     "Idikey": {},
+    "Idport": {
+        "notes": "Ruined planet"
+    },
     "Ieusissi": {},
+    "Islamp": {},
     "Istonbe-Bor": {
         "distances": {
             "Eionehe": 410,
@@ -147,6 +160,7 @@
             "Porioni-Glena": 391
         }
     },
+    "Lipost": {},
     "Literheg": {},
     "Loemfor": {},
     "Lompto": {
@@ -179,6 +193,7 @@
         "discovered_by": "hedowling6196",
         "renamed": "Nook"
     },
+    "Nohampust": {},
     "Nosyalva": {
         "distances": {
             "Eionehe": 406,
@@ -188,6 +203,7 @@
         }
     },
     "Nurtonh-Zawa": {},
+    "Oemfon-Sutte": {},
     "Ogiumfo-Erg": {},
     "Olybari": {},
     "Orneusi-Uomu": {},
@@ -203,6 +219,7 @@
         "control_point": 2,
         "notes": "Control point upper left front"
     },
+    "Patimondha": {},
     "Persfie": {},
     "Piosconch": {},
     "Porioni-Glena": {
@@ -229,12 +246,17 @@
     "Risamale": {},
     "Roystehom": {},
     "Rucestrt": {},
+    "Ruzawarwo": {},
     "Saffort": {},
     "Safielley": {},
     "Sembro-Uvert": {},
     "Serusa": {},
     "Sohtrath": {},
+    "Suanro": {},
+    "Syolvan-Okty": {},
+    "Takelag": {},
     "Tarolyt": {},
+    "Teadia-Stb": {},
     "Tifordo-Soza": {},
     "Timhebe-Guchi": {
         "discovered_by": "bonecraft7",
@@ -254,6 +276,7 @@
     },
     "Utherhen": {},
     "Uverli-Ebny": {},
+    "Uxtoni-Enpor": {},
     "Verale": {},
     "Waukeerla": {},
     "Xicopium": {},
